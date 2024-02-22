@@ -13,9 +13,5 @@
             "name": "Addresses",
             "path": "addresses.txt"
         }
-        {
-            "name": "Full Names",
-            "path": "full-names.txt"
-        }
     ]
 }
